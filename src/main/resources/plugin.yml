@@ -1,0 +1,8 @@
+name: TransmuteCraft
+version: 1.0-SNAPSHOT
+main: me.rropelato.transmutecraft.TransmuteCraft
+api-version: 1.20
+commands:
+  transmute:
+    description: Transmute command
+    usage: /transmute
